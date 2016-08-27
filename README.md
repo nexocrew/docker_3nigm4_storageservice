@@ -1,9 +1,9 @@
 # Supported tags and respective `Dockerfile` links
 
--	[`0.1.0_alpha`, `latest` (*0.1/Dockerfile*)](https://github.com/nexocrew/docker_3nigm4_storageservice/0.1/Dockerfile)
+-	[`0.1.0_beta`, `latest` (*0.1/Dockerfile*)](https://github.com/nexocrew/docker_3nigm4_storageservice/0.1/Dockerfile)
 
 # What is 3nigm4 Storage Service?
-Official 3nigm4 Storage Service image implements API frontend to manage data uploads to an S3 instance. It's one of the microservices composing the 3nigm4 framewrok: secure storage of encrypted, metadata free, data chunks.
+Official 3nigm4 Storage Service image implements API frontend to manage data uploads to an S3 instance. It's one of the microservices composing the 3nigm4 framework: secure storage of encrypted, metadata free, data chunks.
 
 # How to use this image
 
