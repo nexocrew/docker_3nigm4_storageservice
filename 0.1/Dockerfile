@@ -3,7 +3,7 @@
 #
 FROM nexo/alpine:latest
 MAINTAINER Guido Ronchetti <guido.ronchetti@nexo.cloud>
-ENV REFRESHED_AT 2016-08-21
+ENV REFRESHED_AT 2016-08-29
 LABEL nexo.product="3nigm4-storageservice"
 
 #
