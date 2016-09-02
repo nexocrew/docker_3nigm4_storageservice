@@ -3,7 +3,7 @@
 #
 FROM nexo/alpine:latest
 MAINTAINER Guido Ronchetti <guido.ronchetti@nexo.cloud>
-ENV REFRESHED_AT 2016-08-29
+ENV REFRESHED_AT 2016-09-02
 LABEL nexo.product="3nigm4-storageservice"
 
 #
@@ -26,7 +26,7 @@ ENV PATH /opt/nexo/3nigm4/bin/linux-amd64:$PATH
 #
 ENV 3NIGM4_MAJOR_VERSION 0
 ENV 3NIGM4_MINOR_VERSION 1
-ENV 3NIGM4_PATCH_VERSION 0
+ENV 3NIGM4_PATCH_VERSION 2
 ENV 3NIGM4_RELEASE_TYPE beta
 
 #
